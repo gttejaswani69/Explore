@@ -1,2 +1,3 @@
 I am learining github with durga
-git is a version control systems
+git is a version control systems 
+we are adding now small changes
